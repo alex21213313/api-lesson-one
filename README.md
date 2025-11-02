@@ -9,7 +9,8 @@
 Python3 должен быть уже установлен. Затем используйте pip (или pip3, есть конфликт с Python2)
 
 Для установки зависимостей:
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 
