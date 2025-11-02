@@ -9,7 +9,8 @@
 Python3 должен быть уже установлен. Затем используйте pip (или pip3, есть конфликт с Python2)
 
 Для установки зависимостей:
-```pip install -r requirements.txt```
+```pip install -r requirements.txt
+```
 
 
 Рекомендуется использовать [virtual/venv](https://docs.python.org/3/library/venv.html)
@@ -28,4 +29,5 @@ Python3 должен быть уже установлен. Затем испол
 Запустите скрипт, выполнив команду в терминале:
 
 ```bash
-python main.py```
+python main.py
+```
